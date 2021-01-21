@@ -98,7 +98,7 @@
     <div class="container">
       <div class="row">
           <div data-aos="zoom-out">
-            <h1>Doing More to Bring Your <br> Business to Tech Success</h1>
+            <h1>Doing More to Bring Your <br> Businesss to Tech Success</h1>
             <div class="text-center text-lg-left">
               <a href="#about" class="btn-get-started scrollto">más info</a>
             </div>
